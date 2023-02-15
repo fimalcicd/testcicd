@@ -32,7 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
   cicdtestpackage:   
-    git: git@github.com:fimalcicd/cicdetestpackage.git
+    git: https://github.com/fimalcicd/cicdetestpackage.git
 
 
   # The following adds the Cupertino Icons font to your application.
